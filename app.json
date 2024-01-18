@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9d317d07-b5a8-4430-9835-16ef6a20d92b"
+      }
+    },
+    "owner": "holistycs"
   }
 }
